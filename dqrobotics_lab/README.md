@@ -1,5 +1,8 @@
 This scene contains the following objects
 
+![Screenshot from 2025-03-05 12-31-37](https://github.com/user-attachments/assets/81ee01cf-4f21-45ad-8ad1-0765169f2c6f)
+
+
 | Object name  | Description |
 | ------------- | ------------- |
 | [UMIRobot](https://mmmarinho.github.io/UMIRobot/)  | Serial arm commanded by joint positions  |
